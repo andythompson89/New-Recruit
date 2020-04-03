@@ -1,7 +1,4 @@
-# Junior
-
-
-This is the repository for the Junior code challenge
+# Code Challenege
 
 
 ## Question 1
