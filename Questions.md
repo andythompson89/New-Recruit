@@ -1,6 +1,9 @@
 # Code Challenege
 
 
+Please see the attached images to help you answer the questions below.
+
+
 ## Question 1
 
 
