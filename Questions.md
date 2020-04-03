@@ -49,8 +49,8 @@ MovieID | 1 | 2 | 3
 [Movies] (Stores all the different Movies)
 
 
-MovieID	| Name | Genre 
---- | --- | --- | --- |
+MovieID	| #Name | #Genre 
+--- | --- | --- |
 1	| Citizen Kane | Drama
 2 | Shutter Island | Mystery
 3 | Scarecrow | Comedy
