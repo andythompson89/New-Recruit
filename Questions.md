@@ -40,10 +40,11 @@ Table Examples:
 [Tickets] (Stores all the movie tickets sold) 
 
 
-TicketID	| #10 | #20 | #30
---- | --- | --- | --- |
-Seat Number	| 1A | 2B | 4C
-MovieID | 1 | 2 | 3
+TicketID	| #Seat Number | #MovieID
+--- | --- | --- |
+10 | 1A | 1
+20 | 2B | 2
+30 | 4C | 3
 
 
 [Movies] (Stores all the different Movies)
