@@ -43,18 +43,17 @@ Table Examples:
 TicketID	| #10 | #20 | #30
 --- | --- | --- | --- |
 Seat Number	| 1A | 2B | 4C
---- | --- | --- | --- |
 MovieID | 1 | 2 | 3
 
 
 [Movies] (Stores all the different Movies)
 
 
-MovieID	| #1 | #2 | #3
+MovieID	| Name | Genre 
 --- | --- | --- | --- |
-Name	| Citizen Kane | Shutter Island | Scarecrow
---- | --- | --- | --- |
-Genre | Drama | Mystery | Comedy
+1	| Citizen Kane | Drama
+2 | Shutter Island | Mystery
+3 | Scarecrow | Comedy
 
 
 In the language of your choosing, retrieve the data the analyst requires.
