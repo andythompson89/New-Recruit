@@ -1,10 +1,10 @@
-##Junior
+# Junior
 
 
 This is the repository for the Junior code challenge
 
 
-##Question 1
+## Question 1
 
 
 Please see the attached ERD diagram. This diagram was submitted as a solution to storing employee Cellphone data, voice and sms usage.
@@ -13,7 +13,7 @@ Please see the attached ERD diagram. This diagram was submitted as a solution to
 Discuss at least one improvement that can be done to the ERD.
 
 
-##Question 2
+## Question 2
 
 
 The company has decided to give each employee a company email. All current email addresses will be ported over, but the Host will change to “company” and the Domain will change to “.co.za”. As an example, please refer to Figure 1.
@@ -28,7 +28,7 @@ Please note
 *	You can use any languages you like.
 
 
-##Question 3
+## Question 3
 
 
 An analyst has asked you to run a query to see the number of movie tickets per genre that was sold in December last year. The data he needs is spread across two tables.
@@ -60,7 +60,7 @@ Genre | Drama | Mystery | Comedy
 In the language of your choosing, retrieve the data the analyst requires.
 
 
-##Question 4
+## Question 4
 
 
 In the language of your choosing, write a method or script that prints the first 10 digits of the Fibonacci sequence.
