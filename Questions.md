@@ -63,6 +63,6 @@ In the language of your choosing, retrieve the data the analyst requires.
 ## Question 4
 
 
-In the language of your choosing, write a method or script that prints the first 10 digits of the Fibonacci sequence.
+In the language of your choosing, write a method or script that takes two integer parameters and prints the next five Fibonacci numbers. Any possible errors should be handled.
 
 
