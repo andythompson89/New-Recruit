@@ -15,6 +15,8 @@ Discuss at least one improvement that can be done to the ERD.
 
 ## Question 2
 
+Please see attached Employee File
+
 
 The company has decided to give each employee a company email. All current email addresses will be ported over, but the Host will change to “company” and the Domain will change to “.co.za”. As an example, please refer to Figure 1.
 
