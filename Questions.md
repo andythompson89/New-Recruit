@@ -1,4 +1,4 @@
-# Code Challenege
+# Code Challenge
 
 
 Please see the attached images to help you answer the questions below.
